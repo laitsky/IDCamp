@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="46f8d828-8bd8-478e-a7e6-a5bbbff4a877" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1ZymsEQI5CuX3nuKhIf4CwOKhJ7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="show.inlinked.gradle.project.popup" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="46f8d828-8bd8-478e-a7e6-a5bbbff4a877" name="Default Changelist" comment="" />
+      <created>1585819912425</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585819912425</updated>
+      <workItem from="1585819921972" duration="11000" />
+      <workItem from="1585819995520" duration="166000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="442" y="1099" key="SettingsEditor" timestamp="1585820017598">
+      <screen x="270" y="1080" width="1366" height="768" />
+    </state>
+    <state x="442" y="1099" key="SettingsEditor/51.27.1869.1053/270.1080.1366.768@270.1080.1366.768" timestamp="1585820017598" />
+    <state x="607" y="1291" key="com.intellij.ide.util.TipDialog" timestamp="1585820003068">
+      <screen x="270" y="1080" width="1366" height="768" />
+    </state>
+    <state x="607" y="1291" key="com.intellij.ide.util.TipDialog/51.27.1869.1053/270.1080.1366.768@270.1080.1366.768" timestamp="1585820003068" />
+  </component>
+</project>
