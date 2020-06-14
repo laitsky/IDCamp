@@ -1,7 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="46f8d828-8bd8-478e-a7e6-a5bbbff4a877" name="Default Changelist" comment="" />
+    <list default="true" id="46f8d828-8bd8-478e-a7e6-a5bbbff4a877" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.5.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.5.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Control Flow/Latihan/Latihan/src/Task.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Control Flow/Latihan/Latihan/task-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Control Flow/Latihan/Latihan/task-remote-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Control Flow/Latihan/Latihan/task.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Control Flow/Latihan/Latihan/test/output.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Control Flow/Latihan/lesson-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Control Flow/Latihan/lesson-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Control Flow/section-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Control Flow/section-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coroutines/latihan/Latihan/src/Task.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coroutines/latihan/Latihan/task-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coroutines/latihan/Latihan/task-remote-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coroutines/latihan/Latihan/task.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coroutines/latihan/Latihan/test/output.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coroutines/latihan/lesson-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Coroutines/latihan/lesson-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coroutines/section-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Coroutines/section-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Class dan Collections/Latihan/latihan/src/Task.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Class dan Collections/Latihan/latihan/task-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Class dan Collections/Latihan/latihan/task-remote-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Class dan Collections/Latihan/latihan/task.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Class dan Collections/Latihan/latihan/test/output.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Class dan Collections/Latihan/lesson-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Data Class dan Collections/Latihan/lesson-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Class dan Collections/section-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Data Class dan Collections/section-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Functional/Latihan/Latihan/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Functional/Latihan/Latihan/src/Task.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Functional/Latihan/Latihan/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Functional/Latihan/Latihan/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generics/Latihan/Latihan/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Generics/Latihan/Latihan/src/Task.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generics/Latihan/Latihan/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Generics/Latihan/Latihan/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kotlin Fundamental/Latihan/Latihan/src/Task.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kotlin Fundamental/Latihan/Latihan/task-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kotlin Fundamental/Latihan/Latihan/task-remote-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kotlin Fundamental/Latihan/Latihan/task.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kotlin Fundamental/Latihan/Latihan/test/output.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kotlin Fundamental/Latihan/lesson-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Kotlin Fundamental/Latihan/lesson-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kotlin Fundamental/section-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Kotlin Fundamental/section-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Membangun dan Menjalankan Program Kotlin/Latihan/Latihan 1/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Membangun dan Menjalankan Program Kotlin/Latihan/Latihan 1/src/Task.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Membangun dan Menjalankan Program Kotlin/Latihan/Latihan 2/src/Task.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Membangun dan Menjalankan Program Kotlin/Latihan/Latihan 2/task-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Membangun dan Menjalankan Program Kotlin/Latihan/Latihan 2/task-remote-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Membangun dan Menjalankan Program Kotlin/Latihan/Latihan 2/task.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Membangun dan Menjalankan Program Kotlin/Latihan/Latihan 2/test/output.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Membangun dan Menjalankan Program Kotlin/Latihan/lesson-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Membangun dan Menjalankan Program Kotlin/Latihan/lesson-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Membangun dan Menjalankan Program Kotlin/Program Pertama Kotlin/Hello Kotlin/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Membangun dan Menjalankan Program Kotlin/Program Pertama Kotlin/Hello Kotlin/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Membangun dan Menjalankan Program Kotlin/section-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Membangun dan Menjalankan Program Kotlin/section-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Object-Oriented/Latihan/Latihan/src/Task.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Object-Oriented/Latihan/Latihan/task-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Object-Oriented/Latihan/Latihan/task-remote-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Object-Oriented/Latihan/Latihan/task.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Object-Oriented/Latihan/Latihan/test/output.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Object-Oriented/Latihan/lesson-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Object-Oriented/Latihan/lesson-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Object-Oriented/section-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Object-Oriented/section-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/course-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/course-remote-info.yaml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,9 +87,85 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../if402/Week10-27047" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="show.inlinked.gradle.project.popup" value="false" />
+  </component>
+  <component name="RunManager" selected="Kotlin.TaskKt (4)">
+    <configuration name="AppKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="Data_Class_dan_Collections-Collections-Maps_main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="AppKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TaskKt (1)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="Kotlin_Fundamental-Latihan-Latihan_main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="TaskKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TaskKt (2)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="Control_Flow-Latihan-Latihan_main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="TaskKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TaskKt (3)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="Data_Class_dan_Collections-Latihan-latihan_main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="TaskKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TaskKt (4)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="Functional-Latihan-Latihan_main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="TaskKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.TaskKt (4)" />
+        <item itemvalue="Kotlin.TaskKt (3)" />
+        <item itemvalue="Kotlin.AppKt" />
+        <item itemvalue="Kotlin.TaskKt (2)" />
+        <item itemvalue="Kotlin.TaskKt (1)" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -41,7 +178,22 @@
       <option name="presentableId" value="Default" />
       <updated>1585819912425</updated>
       <workItem from="1585819921972" duration="11000" />
-      <workItem from="1585819995520" duration="166000" />
+      <workItem from="1585819995520" duration="204000" />
+      <workItem from="1585825401912" duration="234000" />
+      <workItem from="1585825676279" duration="52000" />
+      <workItem from="1585895475460" duration="642000" />
+      <workItem from="1585979035337" duration="984000" />
+      <workItem from="1586009413008" duration="169000" />
+      <workItem from="1586066051575" duration="893000" />
+      <workItem from="1586090880922" duration="611000" />
+      <workItem from="1586100201486" duration="512000" />
+      <workItem from="1586311052421" duration="619000" />
+      <workItem from="1587391094154" duration="779000" />
+      <workItem from="1587474697562" duration="2487000" />
+      <workItem from="1587530788735" duration="1297000" />
+      <workItem from="1587554684509" duration="479000" />
+      <workItem from="1587970920281" duration="10000" />
+      <workItem from="1588258462639" duration="614000" />
     </task>
     <servers />
   </component>
@@ -49,13 +201,42 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="57" y="1258" width="1669" height="853" maximized="true" key="DiffContextDialog" timestamp="1587478549827">
+      <screen x="270" y="1080" width="1366" height="768" />
+    </state>
+    <state x="57" y="1258" width="1669" height="853" maximized="true" key="DiffContextDialog/51.27.1869.1053/270.1080.1366.768@51.27.1869.1053" timestamp="1587478549827" />
+    <state x="768" y="311" width="424" height="484" key="FileChooserDialogImpl" timestamp="1588259458930">
+      <screen x="51" y="27" width="1869" height="1053" />
+    </state>
+    <state x="768" y="311" width="424" height="484" key="FileChooserDialogImpl/51.27.1869.1053/270.1080.1366.768@51.27.1869.1053" timestamp="1588259458930" />
+    <state width="1823" height="254" key="GridCell.Tab.0.bottom" timestamp="1587555162018">
+      <screen x="51" y="27" width="1869" height="1053" />
+    </state>
+    <state width="1823" height="254" key="GridCell.Tab.0.bottom/51.27.1869.1053/270.1080.1366.768@51.27.1869.1053" timestamp="1587555162018" />
+    <state width="1823" height="254" key="GridCell.Tab.0.center" timestamp="1587555162018">
+      <screen x="51" y="27" width="1869" height="1053" />
+    </state>
+    <state width="1823" height="254" key="GridCell.Tab.0.center/51.27.1869.1053/270.1080.1366.768@51.27.1869.1053" timestamp="1587555162018" />
+    <state width="1823" height="254" key="GridCell.Tab.0.left" timestamp="1587555162018">
+      <screen x="51" y="27" width="1869" height="1053" />
+    </state>
+    <state width="1823" height="254" key="GridCell.Tab.0.left/51.27.1869.1053/270.1080.1366.768@51.27.1869.1053" timestamp="1587555162018" />
+    <state width="1823" height="254" key="GridCell.Tab.0.right" timestamp="1587555162018">
+      <screen x="51" y="27" width="1869" height="1053" />
+    </state>
+    <state width="1823" height="254" key="GridCell.Tab.0.right/51.27.1869.1053/270.1080.1366.768@51.27.1869.1053" timestamp="1587555162018" />
     <state x="442" y="1099" key="SettingsEditor" timestamp="1585820017598">
       <screen x="270" y="1080" width="1366" height="768" />
     </state>
     <state x="442" y="1099" key="SettingsEditor/51.27.1869.1053/270.1080.1366.768@270.1080.1366.768" timestamp="1585820017598" />
-    <state x="607" y="1291" key="com.intellij.ide.util.TipDialog" timestamp="1585820003068">
-      <screen x="270" y="1080" width="1366" height="768" />
+    <state x="512" y="316" key="com.intellij.ide.util.TipDialog" timestamp="1588259441818">
+      <screen x="51" y="27" width="1869" height="1053" />
     </state>
-    <state x="607" y="1291" key="com.intellij.ide.util.TipDialog/51.27.1869.1053/270.1080.1366.768@270.1080.1366.768" timestamp="1585820003068" />
+    <state x="607" y="1291" key="com.intellij.ide.util.TipDialog/51.27.1869.1053/270.1080.1366.768@270.1080.1366.768" timestamp="1585825403943" />
+    <state x="512" y="316" key="com.intellij.ide.util.TipDialog/51.27.1869.1053/270.1080.1366.768@51.27.1869.1053" timestamp="1588259441818" />
+    <state x="294" y="133" width="1372" height="841" key="new project wizard" timestamp="1586311911228">
+      <screen x="51" y="27" width="1869" height="1053" />
+    </state>
+    <state x="294" y="133" width="1372" height="841" key="new project wizard/51.27.1869.1053/270.1080.1366.768@51.27.1869.1053" timestamp="1586311911228" />
   </component>
 </project>

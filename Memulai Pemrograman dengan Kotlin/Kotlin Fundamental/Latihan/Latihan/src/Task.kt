@@ -13,7 +13,7 @@ fun main() {
 }
 
 fun calculateResult(valueA: Int, valueB: Int, valueC: Int?): Int {
-    // TODO
-    val result = 0
+
+    val result = valueA + (valueB - (valueC?: 50))
     return result
 }
